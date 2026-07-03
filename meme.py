@@ -13,9 +13,6 @@ reddit = praw.Reddit(
 
 subs = [
     "memes",
-    "spanish",
-    "MAAU",
-    "BeelcitosMemes",
     "dankmemes",
     "shitposting",
     "funny"
