@@ -21,15 +21,6 @@ subs = [
     "funny"
 ]
 
-MENSAJES = [
-    "🏍️ Un motociclista dejó esto por aquí...",
-    "🍺 Ya llegó el meme rancio del rato.",
-    "☠️ La Iron Legion aprueba este meme.",
-    "🔥 Encontrado en Reddit.",
-    "🛠️ El mecánico encontró esta joyita.",
-    "😂 Meme recién robado de Reddit."
-]
-
 subreddit = reddit.subreddit(random.choice(subs))
 
 posts = []
